@@ -1,0 +1,9 @@
+
+F
+java:S1611"1Remove the parentheses around the "len" parameter(Í’Ö]
+h
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(Í’Ö]
+S	java:S106"9Replace this use of System.out or System.err by a logger.(éƒÿšùÿÿÿÿ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(ïÍØƒ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(áá‹Ùþÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«È€·ýÿÿÿÿ

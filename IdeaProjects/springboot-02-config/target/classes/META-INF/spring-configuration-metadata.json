@@ -1,0 +1,63 @@
+{
+  "groups": [
+    {
+      "name": "dog",
+      "type": "com.google.pojo.Dog",
+      "sourceType": "com.google.pojo.Dog"
+    },
+    {
+      "name": "person",
+      "type": "com.google.pojo.Person",
+      "sourceType": "com.google.pojo.Person"
+    }
+  ],
+  "properties": [
+    {
+      "name": "dog.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.google.pojo.Dog"
+    },
+    {
+      "name": "dog.first-name",
+      "type": "java.lang.String",
+      "sourceType": "com.google.pojo.Dog"
+    },
+    {
+      "name": "person.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.google.pojo.Person"
+    },
+    {
+      "name": "person.birth",
+      "type": "java.util.Date",
+      "sourceType": "com.google.pojo.Person"
+    },
+    {
+      "name": "person.dog",
+      "type": "com.google.pojo.Dog",
+      "sourceType": "com.google.pojo.Person"
+    },
+    {
+      "name": "person.happy",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.google.pojo.Person"
+    },
+    {
+      "name": "person.lists",
+      "type": "java.util.List<java.lang.Object>",
+      "sourceType": "com.google.pojo.Person"
+    },
+    {
+      "name": "person.maps",
+      "type": "java.util.Map<java.lang.String,java.lang.Object>",
+      "sourceType": "com.google.pojo.Person"
+    },
+    {
+      "name": "person.name",
+      "type": "java.lang.String",
+      "description": "Person{name='迪丽热巴', age=28, happy=false, birth=Sun Dec 05 00:00:00 CST 2021, maps={k1=v1, k2=v2}, lists=[code, music, boy], dog=Dog{name='旺财', age=3}}",
+      "sourceType": "com.google.pojo.Person"
+    }
+  ],
+  "hints": []
+}

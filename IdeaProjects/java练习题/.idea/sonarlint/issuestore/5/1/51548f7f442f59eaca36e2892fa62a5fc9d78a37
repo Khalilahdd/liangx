@@ -1,0 +1,10 @@
+
+E
+java:S1611"/Remove the parentheses around the "n" parameter(ÑÊ Â
+i
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(ÑÊ Â
+B
+java:S1612",Replace this lambda with a method reference.(ÑÊ Â
+S	java:S106"9Replace this use of System.out or System.err by a logger.(·ùßóıÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ØÙi
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Øİ§ˆÿÿÿÿÿ

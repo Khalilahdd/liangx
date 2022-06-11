@@ -1,0 +1,62 @@
+
+f	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤Ë©¯
+e	java:S117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã«šb
+k	java:S117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’æ›£ùÿÿÿÿ
+k	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ˆÕ“øÿÿÿÿ
+k	java:S117\"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÚÕðûÿÿÿÿ
+k	java:S117c"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Ö­Ìþÿÿÿÿ
+C
+java:S1604&"(Make this anonymous inner class a lambda(¤©Òâüÿÿÿÿ
+C
+java:S1604V"(Make this anonymous inner class a lambda(Ï¹ÿîúÿÿÿÿ
+{	java:S116"aRename this field "studentdatetextField_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©³’¿üÿÿÿÿ
+u	java:S116"`Rename this field "studentteltextField_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÑî×
+z	java:S116"eRename this field "studengtaddresstextField_3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«é™‰
+J
+java:S6212)"/Declare this local variable with "var" instead.(óÌ¯Šûÿÿÿÿ
+d
+java:S32527"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öþÿÿÿÿ
+J
+java:S6212="/Declare this local variable with "var" instead.(˜ß”–ûÿÿÿÿ
+E
+java:S6212B"/Declare this local variable with "var" instead.(¤Ë©¯
+D
+java:S6212F"/Declare this local variable with "var" instead.(Ã«šb
+J
+java:S6212K"/Declare this local variable with "var" instead.(’æ›£ùÿÿÿÿ
+J
+java:S6212P"/Declare this local variable with "var" instead.(¡ˆÕ“øÿÿÿÿ
+J
+java:S6212U"/Declare this local variable with "var" instead.(äå÷¬ûÿÿÿÿ
+J
+java:S6212\"/Declare this local variable with "var" instead.(µÚÕðûÿÿÿÿ
+J
+java:S6212c"/Declare this local variable with "var" instead.( Ö­Ìþÿÿÿÿ
+@
+java:S1172¯")Remove this unused method parameter "ae".(Ô†«¸
+E
+java:S6212°"/Declare this local variable with "var" instead.(œ¹ê 
+W
+java:S1858°"A"getText" returns a string, there's no need to call "toString()".(œ¹ê 
+F
+java:S6212±"/Declare this local variable with "var" instead.(Ñë³­
+X
+java:S1858±"A"getText" returns a string, there's no need to call "toString()".(Ñë³­
+K
+java:S6212²"/Declare this local variable with "var" instead.(…çÈªøÿÿÿÿ
+]
+java:S1858²"A"getText" returns a string, there's no need to call "toString()".(…çÈªøÿÿÿÿ
+K
+java:S1874²"/Remove this use of "getText"; it is deprecated.(…çÈªøÿÿÿÿ
+F
+java:S6212³"/Declare this local variable with "var" instead.(ÆÉØ˜
+X
+java:S1858³"A"getText" returns a string, there's no need to call "toString()".(ÆÉØ˜
+F
+java:S6212´"/Declare this local variable with "var" instead.(ñî¸ù
+X
+java:S1858´"A"getText" returns a string, there's no need to call "toString()".(ñî¸ù
+F
+java:S6212µ"/Declare this local variable with "var" instead.(ù…³‚
+X
+java:S1858µ"A"getText" returns a string, there's no need to call "toString()".(ù…³‚

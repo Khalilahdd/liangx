@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+           http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="user" class="com.kuang.pojo.User">
+            <!--使用无参构造，用下面的方法-->
+<!--        <property name="name" value="美女"/>-->
+
+        <!--使用有参构造
+            1.第一种，下标赋值！
+        -->
+        <!--<constructor-arg index="0" value="迪丽热巴"/>-->
+            <!--
+            2.第二种，通过类型创建
+                不建议使用！
+            -->
+<!--        <constructor-arg type="java.lang.String" value="古力娜扎"/>-->
+
+<!--        第三种，直接通过参数名来设置-->
+        <constructor-arg name="name" value="李知恩"/>
+    </bean>
+
+<!--
+        id：bean的唯一标识符，也就是相当于我们学的对象名
+        class：bean对象所对应的全限定名：   包名 + 类型
+        name:也是别名，而且name可以同时取多个别名
+-->
+    <bean id="userT" class="com.kuang.pojo.UserT" name="userT2,u2">
+            <property name="name" value="干就完事了"/>
+    </bean>
+
+<!--    别名，如果添加了别名，我们也可以使用别名获取到这个对象-->
+    <alias name="user" alias="userNew"/>
+
+</beans>

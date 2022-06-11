@@ -1,0 +1,20 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(øÜÊ¶8” öÑ»/
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ì“ıê
+N	java:S106("9Replace this use of System.out or System.err by a logger.(²¨ç÷
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(ïÖ Ïıÿÿÿÿ
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(œÈÈ¸
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(²¨ç÷
+S	java:S106^"9Replace this use of System.out or System.err by a logger.(ïÖ Ïıÿÿÿÿ
+N	java:S106a"9Replace this use of System.out or System.err by a logger.(œÈÈ¸
+N	java:S106e"9Replace this use of System.out or System.err by a logger.(²¨ç÷
+S	java:S106q"9Replace this use of System.out or System.err by a logger.(ïÖ Ïıÿÿÿÿ
+N	java:S106t"9Replace this use of System.out or System.err by a logger.(œÈÈ¸
+N	java:S106x"9Replace this use of System.out or System.err by a logger.(²¨ç÷
+M
+java:S11444"+Remove this unused private "demo03" method.(ÑŸìıÿÿÿÿ8áÛÿÑ»/
+A
+java:S1144O"+Remove this unused private "demo02" method.(£üé…
+F
+java:S1144m"+Remove this unused private "demo01" method.(û½¶èùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿõ„øûÿÿÿÿ

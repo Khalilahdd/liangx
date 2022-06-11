@@ -1,0 +1,4 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(≥ы‘Р€€€€€
+m
+java:S2095'"RUse try-with-resources or close this "BufferedOutputStream" in a "finally" clause.(£руўы€€€€

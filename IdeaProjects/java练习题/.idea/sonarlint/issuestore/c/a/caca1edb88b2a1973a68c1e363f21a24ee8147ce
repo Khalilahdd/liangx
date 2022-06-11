@@ -1,0 +1,13 @@
+
+J
+java:S3740)"/Provide the parametrized type for this generic.(Œ—¼âýÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Â“Á¢ÿÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(¾Öôÿ
+I
+java:S1874+"3Remove this use of "newInstance"; it is deprecated.(¼Ç—Î
+P
+java:S1128"5Remove this unused import 'com.itcast.domain.Person'.(õ¾œšûÿÿÿÿ
+Q
+java:S1128"6Remove this unused import 'com.itcast.domain.Student'.(²”Â®þÿÿÿÿ
+K
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ

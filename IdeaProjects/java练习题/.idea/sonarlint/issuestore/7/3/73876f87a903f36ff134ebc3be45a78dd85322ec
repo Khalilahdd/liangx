@@ -1,0 +1,14 @@
+
+M
+java:S1854 "8Remove this useless assignment to local variable "list".(Ìö¼
+Q	java:S125"<This block of commented-out lines of code should be removed.(ÜÑã
+Q	java:S125"<This block of commented-out lines of code should be removed.(œœûŸ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ºÛõñüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ª€€ˆ
+V	java:S125"<This block of commented-out lines of code should be removed.(“€†›üÿÿÿÿ
+>
+java:S1481 ")Remove this unused "list" local variable.(Ìö¼
+[
+java:S1764""ECorrect one of the identical sub-expressions on both sides of equals.(ì¢Ä
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(š—°øÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾„õÚ

@@ -1,0 +1,50 @@
+
+J
+java:S3740#"/Provide the parametrized type for this generic.(¾Ô–æøÿÿÿÿ
+E
+java:S3740R"/Provide the parametrized type for this generic.(öùŞñ
+J
+java:S3740S"/Provide the parametrized type for this generic.(ß·ß‚øÿÿÿÿ
+k	java:S117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰Ş³ øÿÿÿÿ
+f	java:S117I"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çã©€
+k	java:S117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íşšşüÿÿÿÿ
+k	java:S117_"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ğ½ùÿÿÿÿ
+k	java:S117f"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Ö­Ìşÿÿÿÿ
+C
+java:S1604)"(Make this anonymous inner class a lambda(¤©Òâüÿÿÿÿ
+>
+java:S1604W"(Make this anonymous inner class a lambda(ÖãºÂ
+C
+java:S1604`"(Make this anonymous inner class a lambda(Ú»ŸËıÿÿÿÿ
+q	java:S116!"\Rename this field "UsernametextField" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍêÄÂ
+x	java:S116""^Rename this field "passwordtextField_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÂšŸıÿÿÿÿ
+J
+java:S6212,"/Declare this local variable with "var" instead.(€’®Çüÿÿÿÿ
+d
+java:S3252:"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öşÿÿÿÿ
+E
+java:S6212@"/Declare this local variable with "var" instead.(º•òŒ
+J
+java:S6212C"/Declare this local variable with "var" instead.(‰Ş³ øÿÿÿÿ
+E
+java:S6212I"/Declare this local variable with "var" instead.(Çã©€
+J
+java:S6212O"/Declare this local variable with "var" instead.(íşšşüÿÿÿÿ
+E
+java:S6212V"/Declare this local variable with "var" instead.(ïäü¡
+J
+java:S6212_"/Declare this local variable with "var" instead.(¬ğ½ùÿÿÿÿ
+J
+java:S6212f"/Declare this local variable with "var" instead.( Ö­Ìşÿÿÿÿ
+@
+java:S1172™")Remove this unused method parameter "ae".(è¾‚‘
+K
+java:S6212š"/Declare this local variable with "var" instead.(¨ÀËÓÿÿÿÿÿ
+]
+java:S1858š"A"getText" returns a string, there's no need to call "toString()".(¨ÀËÓÿÿÿÿÿ
+F
+java:S6212›"/Declare this local variable with "var" instead.(¾ò’
+X
+java:S1858›"A"getText" returns a string, there's no need to call "toString()".(¾ò’
+E
+java:S1172É")Remove this unused method parameter "ae".(ƒ—ü÷ûÿÿÿÿ

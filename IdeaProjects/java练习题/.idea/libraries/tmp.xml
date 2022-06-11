@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tmp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Javaweb/tmp/web/lib/kaptcha-2.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

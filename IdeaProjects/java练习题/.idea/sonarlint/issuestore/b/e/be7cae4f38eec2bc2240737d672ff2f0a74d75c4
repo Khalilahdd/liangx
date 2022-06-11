@@ -1,0 +1,10 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(®¡½Ôşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(–µé›ıÿÿÿÿ
+V	java:S125 "<This block of commented-out lines of code should be removed.(Ä×Œİúÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(Õº½Íşÿÿÿÿ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(Å¢Å˜
+Š
+java:S1319"oThe type of the "list" object should be an interface such as "List" rather than the implementation "ArrayList".(Ù®ŒÃùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ãöºÒ

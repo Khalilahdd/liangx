@@ -1,0 +1,25 @@
+
+s	java:S135i"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+t	java:S135©"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(çÃë²ÿÿÿÿÿ
+S	java:S106b"9Replace this use of System.out or System.err by a logger.(úö¦øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‡—Èçûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÏÚ‰ÿÿÿÿÿ
+S	java:S106y"9Replace this use of System.out or System.err by a logger.(ó¦Ä¾úÿÿÿÿ
+g
+java:S1104Å"PMake next a static final constant or non-public and provide accessors if needed.(İëÔÏ
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(Øùœí
+e
+java:S1104Â"NMake no a static final constant or non-public and provide accessors if needed.(Ë¥ÏÄ
+T	java:S106…"9Replace this use of System.out or System.err by a logger.(½ôÃîüÿÿÿÿ
+g
+java:S1104Ã"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾
+k
+java:S1104Æ"OMake pre a static final constant or non-public and provide accessors if needed.(£ï ®ûÿÿÿÿ
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(ì­øúÿÿÿÿ
+T	java:S106·"9Replace this use of System.out or System.err by a logger.(¼Àı×ÿÿÿÿÿ
+t	java:S135Š"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+j
+java:S1104Ä"TMake nickname a static final constant or non-public and provide accessors if needed.(ÔÀª\
+T	java:S106 "9Replace this use of System.out or System.err by a logger.(Ç¤Ò¨üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ëÑ½À

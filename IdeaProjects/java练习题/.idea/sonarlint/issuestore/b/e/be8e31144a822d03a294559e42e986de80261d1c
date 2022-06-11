@@ -1,0 +1,10 @@
+
+S
+java:S1854	"8Remove this useless assignment to local variable "sort".(ŞĞñ“ùÿÿÿÿ
+D
+java:S1481	")Remove this unused "sort" local variable.(ŞĞñ“ùÿÿÿÿ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(›µ²Øøÿÿÿÿ
+=
+java:S1125 "'Remove the unnecessary boolean literal.(ûÅŸ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ãöºÒ

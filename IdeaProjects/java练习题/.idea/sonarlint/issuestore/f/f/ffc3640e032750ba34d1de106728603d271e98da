@@ -1,0 +1,7 @@
+
+?
+java:S1481")Remove this unused "file" local variable.(ÀÊ÷Ë
+Q
+java:S1128";Remove this unused import 'java.net.MalformedURLException'.(ªËÞˆ
+i
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ÿÅ¯£üÿÿÿÿ

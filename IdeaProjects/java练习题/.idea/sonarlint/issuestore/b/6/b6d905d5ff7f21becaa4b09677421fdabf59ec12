@@ -1,0 +1,10 @@
+
+Q	java:S125	"<This block of commented-out lines of code should be removed.(—ƒÕŞ
+n
+java:S1602."SRemove useless curly braces around statement and then remove useless return keyword(äó–üÿÿÿÿ
+i
+java:S16021"SRemove useless curly braces around statement and then remove useless return keyword(¡½ò
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+‹
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÁÚÏªøÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯·İ¥úÿÿÿÿ

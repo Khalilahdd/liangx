@@ -1,0 +1,7 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Í»ÿ°
+m	java:S127:"XRefactor the code in order to not assign to this loop counter from within the loop body.(şÁ†°
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Œíù°úÿÿÿÿ
+t	java:S127#"XRefactor the code in order to not assign to this loop counter from within the loop body.(şÁ†°8ôÆÈ–/
+m	java:S127>"XRefactor the code in order to not assign to this loop counter from within the loop body.(¯ÀÚè
+t	java:S127'"XRefactor the code in order to not assign to this loop counter from within the loop body.(¯ÀÚè8ôÆÈ–/

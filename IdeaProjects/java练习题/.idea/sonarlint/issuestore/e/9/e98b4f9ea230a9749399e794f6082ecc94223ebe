@@ -1,0 +1,17 @@
+
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Çµí‘
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(Îûèô
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ß±¯ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ş»Ş
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¢‡–Åúÿÿÿÿ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(¯–¤ 
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(€·Â†ÿÿÿÿÿ
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(Õñ‚—
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(ÓåÂĞ
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(—¡¨Êşÿÿÿÿ
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(ß±¯ûÿÿÿÿ
+S	java:S106J"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ãöºÒ

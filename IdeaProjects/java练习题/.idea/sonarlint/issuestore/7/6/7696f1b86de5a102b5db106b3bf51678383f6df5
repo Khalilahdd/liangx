@@ -1,0 +1,27 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(Ñî¾Ä
+J
+java:S37403"/Provide the parametrized type for this generic.(¶þ™Çþÿÿÿÿ
+J
+java:S37407"/Provide the parametrized type for this generic.(¶þ™Çþÿÿÿÿ
+J
+java:S3740<"/Provide the parametrized type for this generic.(ŒŠ´Èøÿÿÿÿ
+P
+java:S1854":Remove this useless assignment to local variable "fields".(Ò×ù
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‚Áµ üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¬€çÏ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Îªêã
+S	java:S106"9Replace this use of System.out or System.err by a logger.(äîÓÕþÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(«‹Îõ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Îªêã
+S	java:S106""9Replace this use of System.out or System.err by a logger.(‚ï˜—üÿÿÿÿ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(äÜæ±
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(à¹ÕŽ
+N	java:S106."9Replace this use of System.out or System.err by a logger.(¾ÚÎï
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(Îªêã
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(íÙÙ³ùÿÿÿÿ
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(íÙÙ³ùÿÿÿÿ
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(…”Äüÿÿÿÿ8ç‹ ýº/
+}
+java:S1192"gDefine a constant instead of duplicating this literal "======================================" 3 times.(Îªêã

@@ -1,0 +1,19 @@
+
+h
+java:S3776R"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(´ë×ß
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(âÔö³
+N
+java:S1197"8Move the array designator from the variable to the type.(¦ƒÒ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+ˆ
+java:S1319{"mThe type of the "ps" object should be an interface such as "List" rather than the implementation "ArrayList".(úÅµ‚ıÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ôó­\
+b
+java:S3008	"LRename this field "X" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö­Ò³
+C
+java:S1604|"(Make this anonymous inner class a lambda(®­ö şÿÿÿÿ
+†
+java:S1319R"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(´ë×ß
+b
+java:S3008
+"LRename this field "Y" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÔÙ¡

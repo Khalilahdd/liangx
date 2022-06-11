@@ -1,0 +1,9 @@
+
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+O
+java:S1117:":Rename "vertex" which hides the field declared at line 32.(‹ş€^
+E
+java:S1068 "*Remove this unused "vertex" private field.(àº«ıÿÿÿÿ
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(§Åæé
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(•ÎÁ´

@@ -1,0 +1,11 @@
+
+Q	java:S125,"<This block of commented-out lines of code should be removed.(¥ä³®
+Q	java:S1254"<This block of commented-out lines of code should be removed.(»™Õ»
+S	java:S106q"9Replace this use of System.out or System.err by a logger.(­½½»ÿÿÿÿÿ
+S	java:S106v"9Replace this use of System.out or System.err by a logger.(å×ñûÿÿÿÿ
+S	java:S106x"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+ƒ
+java:S1319o"mThe type of the "poker" object should be an interface such as "Map" rather than the implementation "HashMap".(‹›è
+…
+java:S1319o"oThe type of the "list" object should be an interface such as "List" rather than the implementation "ArrayList".(‹›è
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÇÔéÏûÿÿÿÿ

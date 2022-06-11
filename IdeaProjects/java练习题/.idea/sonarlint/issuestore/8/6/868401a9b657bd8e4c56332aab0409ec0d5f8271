@@ -1,0 +1,15 @@
+
+L
+java:S3740!"/Provide the parametrized type for this generic.(† òÝ8Ðäµµ”/
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÈúŒî8Ðäµµ”/
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(çŸ‡Ó8ï£¢µ”/
+L
+java:S3740!"/Provide the parametrized type for this generic.(† òÝ8Ðäµµ”/
+X	java:S125"<This block of commented-out lines of code should be removed.(íýÆ«8û¿¢µ”/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¡Úç8ï£¢µ”/
+Q
+java:S3740)"/Provide the parametrized type for this generic.(ê·†¶ùÿÿÿÿ8ï£¢µ”/
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(É„†ú8ï£¢µ”/
+T
+java:S1128"2Remove this unused import 'javax.print.DocFlavor'.(ÍØƒïúÿÿÿÿ8Ðäµµ”/

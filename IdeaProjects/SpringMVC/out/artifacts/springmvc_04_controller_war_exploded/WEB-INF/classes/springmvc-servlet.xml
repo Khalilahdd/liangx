@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:mvc="http://www.springframework.org/schema/mvc"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd
+       http://www.springframework.org/schema/context
+       https://www.springframework.org/schema/context/spring-context.xsd
+       http://www.springframework.org/schema/mvc
+       https://www.springframework.org/schema/mvc/spring-mvc.xsd">
+
+    <context:component-scan base-package="com.kuang.controller"/>
+    <mvc:default-servlet-handler/>
+    <mvc:annotation-driven />
+
+
+    <!--视图解析器:DispatcherServlet给他的ModelAndView（模板引擎Thymeleaf    Freemarker）
+        1.获取ModeAndView的数据
+        2.解析ModeAndView的视图名字
+        3.拼接视图名字，找到对应的视图    /WEB-INF/jsp/hello.jsp
+        4.将数据渲染到这个视图上
+    -->
+    <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver" id="InternalResourceViewResolver">
+        <!--前缀-->
+        <property name="prefix" value="/WEB-INF/jsp/"/>
+        <!--后缀-->
+        <property name="suffix" value=".jsp"/>
+    </bean>
+
+<!--    <bean name="/t1" class="com.kuang.controller.ControllerTest1"/>-->
+
+</beans>

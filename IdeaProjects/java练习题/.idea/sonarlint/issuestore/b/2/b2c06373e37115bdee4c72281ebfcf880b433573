@@ -1,0 +1,17 @@
+
+W
+java:S10758"ARefactor your code to get this URI from a customizable parameter.(½ÏèŞ
+Q	java:S125D"<This block of commented-out lines of code should be removed.(ıÚ³à
+N	java:S106H"9Replace this use of System.out or System.err by a logger.(—›
+N	java:S106Q"9Replace this use of System.out or System.err by a logger.(Îº‘ó
+S	java:S106Z"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+Q	java:S125a"<This block of commented-out lines of code should be removed.(Ÿ¤€ù
+>
+java:S16040"(Make this anonymous inner class a lambda(ÉãÃ®
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(úõ™
+e
+java:S2095""JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(âªÆûÿÿÿÿ
+d
+java:S2095E"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(–¿ûô
+=
+java:S2189)""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ

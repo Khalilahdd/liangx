@@ -1,0 +1,25 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(ÏÏĞúÿÿÿÿ
+\
+java:S1075 "ARefactor your code to get this URI from a customizable parameter.(‚¦ƒÎÿÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(£ÕÅ¦ûÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(º˜®˜üÿÿÿÿ
+W
+java:S1075("ARefactor your code to get this URI from a customizable parameter.(êı·š
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(ö÷İöıÿÿÿÿ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(­×åÓ
+\
+java:S1075/"ARefactor your code to get this URI from a customizable parameter.(÷ÙÒªÿÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(¢íšüÿÿÿÿ
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(ûÒøĞ
+\
+java:S1075?"ARefactor your code to get this URI from a customizable parameter.(ÜÊ®ñşÿÿÿÿ
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(†¨à¡
+V
+java:S1075B"ARefactor your code to get this URI from a customizable parameter.(Å¢ãP
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(ê‡‘¯üÿÿÿÿ
+M	java:S106F"9Replace this use of System.out or System.err by a logger.(•ô¥
+M	java:S106I"9Replace this use of System.out or System.err by a logger.(çƒ‡w
+F
+java:S1144="+Remove this unused private "show01" method.(ù•¢Øûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·Š…Ãÿÿÿÿÿ

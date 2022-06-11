@@ -1,0 +1,5 @@
+
+P	java:S1251"<This block of commented-out lines of code should be removed.(Œ…”y
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³ûÔÿÿÿÿÿ
+g
+java:S2095,"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(šêÍ øÿÿÿÿ

@@ -1,0 +1,12 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(ÏÏĞúÿÿÿÿ
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(©¡Ï¦ùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‡¤Ÿ”
+Q	java:S125'"<This block of commented-out lines of code should be removed.(Ìº””
+V
+java:S1075)"ARefactor your code to get this URI from a customizable parameter.(Í†î'
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(ĞÒô
+F
+java:S1144&"+Remove this unused private "show01" method.(ù•¢Øûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·Š…Ãÿÿÿÿÿ

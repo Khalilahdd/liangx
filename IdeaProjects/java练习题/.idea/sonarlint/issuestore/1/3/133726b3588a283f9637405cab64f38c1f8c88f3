@@ -1,0 +1,13 @@
+
+F
+java:S2140")Use "java.util.Random.nextInt()" instead.(©ì ú8šÜ¨¸/
+F
+java:S2140")Use "java.util.Random.nextInt()" instead.(öÙ‘î8šÜ¨¸/
+J	java:S108")Either remove or fill this block of code.(øôÔ×ûÿÿÿÿ8šÜ¨¸/
+h
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(øôÔ×ûÿÿÿÿ8šÜ¨¸/
+W
+java:S1161":Add the "@Override" annotation above this method signature(“–ış8šÜ¨¸/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(öÓÈÔûÿÿÿÿ8šÜ¨¸/
+K
+java:S2140")Use "java.util.Random.nextInt()" instead.(ŒÔ³üÿÿÿÿ8šÜ¨¸/

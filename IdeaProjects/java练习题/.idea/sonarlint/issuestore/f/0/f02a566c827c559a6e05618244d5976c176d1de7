@@ -1,0 +1,15 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(Ñî¾Ä
+V	java:S125"<This block of commented-out lines of code should be removed.(‰ü¾üÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ÞñáÚøÿÿÿÿ
+N
+java:S1874"3Remove this use of "newInstance"; it is deprecated.(ÒéÏœýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Û‘§çÿÿÿÿÿ
+I
+java:S1874""3Remove this use of "newInstance"; it is deprecated.(Ø×ž÷
+H
+java:S3011&",This accessibility update should be removed.(ºÓüE8É¹Ëýº/
+G
+java:S3011'",This accessibility bypass should be removed.(œ…Ê›þÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(öÀöƒøÿÿÿÿ

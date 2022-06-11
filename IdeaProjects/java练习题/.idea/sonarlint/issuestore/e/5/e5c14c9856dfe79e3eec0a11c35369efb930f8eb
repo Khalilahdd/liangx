@@ -1,0 +1,35 @@
+
+‚
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø
+V	java:S125"<This block of commented-out lines of code should be removed.(ÏÏÐúÿÿÿÿ
+W
+java:S1075 "ARefactor your code to get this URI from a customizable parameter.(Æ„“
+d
+java:S4042!"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(­è×–
+S	java:S106""9Replace this use of System.out or System.err by a logger.(øÚÞ£ÿÿÿÿÿ
+V
+java:S1075$"ARefactor your code to get this URI from a customizable parameter.(êïâ
+d
+java:S4042%"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(¾€úà
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(Æãâóÿÿÿÿÿ
+W
+java:S10755"ARefactor your code to get this URI from a customizable parameter.(Æ„“
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(øÚÞ£ÿÿÿÿÿ
+\
+java:S10759"ARefactor your code to get this URI from a customizable parameter.(ÈŽØÿÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(Æãâóÿÿÿÿÿ
+\
+java:S1075="ARefactor your code to get this URI from a customizable parameter.(³Ñ‡ÿúÿÿÿÿ
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(ù×´‰ûÿÿÿÿ
+W
+java:S1075A"ARefactor your code to get this URI from a customizable parameter.(ÕÙº®
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(ð¶ñ¯
+W
+java:S1075T"ARefactor your code to get this URI from a customizable parameter.(¤Šöç
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(øÚÞ£ÿÿÿÿÿ
+S	java:S106Y"9Replace this use of System.out or System.err by a logger.(œÎúïýÿÿÿÿ
+A
+java:S11443"+Remove this unused private "show02" method.(µÐ‘
+F
+java:S1144S"+Remove this unused private "show01" method.(ÿ½­Õøÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·Š…Ãÿÿÿÿÿ

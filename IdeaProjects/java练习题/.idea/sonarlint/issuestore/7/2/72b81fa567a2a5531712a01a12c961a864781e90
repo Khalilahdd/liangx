@@ -1,0 +1,27 @@
+
+]	java:S125"<This block of commented-out lines of code should be removed.(ÏÏĞúÿÿÿÿ8¥¨è¼/
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(óô´îøÿÿÿÿ8¥¨è¼/
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(ú®äÉşÿÿÿÿ8¥¨è¼/
+U	java:S106B"9Replace this use of System.out or System.err by a logger.(àˆóÎ8Ÿ¥¨è¼/
+U	java:S106E"9Replace this use of System.out or System.err by a logger.(ÓÎ–‡8Ÿ¥¨è¼/
+U	java:S106T"9Replace this use of System.out or System.err by a logger.(ÓŞê·8Ÿ¥¨è¼/
+X	java:S125T"<This block of commented-out lines of code should be removed.(ÓŞê·8Ÿ¥¨è¼/
+U	java:S106W"9Replace this use of System.out or System.err by a logger.(’æÚ8Ÿ¥¨è¼/
+Z	java:S106Y"9Replace this use of System.out or System.err by a logger.(éÅâôúÿÿÿÿ8Ÿ¥¨è¼/
+]	java:S125Y"<This block of commented-out lines of code should be removed.(éÅâôúÿÿÿÿ8Ÿ¥¨è¼/
+Z	java:S106\"9Replace this use of System.out or System.err by a logger.(Î£ôöùÿÿÿÿ8Ÿ¥¨è¼/
+Z	java:S106^"9Replace this use of System.out or System.err by a logger.(éÅâôúÿÿÿÿ8Ÿ¥¨è¼/
+]	java:S125^"<This block of commented-out lines of code should be removed.(éÅâôúÿÿÿÿ8Ÿ¥¨è¼/
+U	java:S106l"9Replace this use of System.out or System.err by a logger.(«á»‚8¯¥¨è¼/
+Z	java:S106o"9Replace this use of System.out or System.err by a logger.(¦­ëäûÿÿÿÿ8¯¥¨è¼/
+Z	java:S106q"9Replace this use of System.out or System.err by a logger.(Ğêûÿÿÿÿ8¯¥¨è¼/
+]	java:S125q"<This block of commented-out lines of code should be removed.(Ğêûÿÿÿÿ8¯¥¨è¼/
+Z	java:S106w"9Replace this use of System.out or System.err by a logger.(Á¤ğËúÿÿÿÿ8¯¥¨è¼/
+]	java:S125w"<This block of commented-out lines of code should be removed.(Á¤ğËúÿÿÿÿ8¯¥¨è¼/
+H
+java:S1144:"+Remove this unused private "show03" method.(³©ÈÒ8¯¥¨è¼/
+H
+java:S1144N"+Remove this unused private "show02" method.(µĞ‘8¯¥¨è¼/
+M
+java:S1144g"+Remove this unused private "show01" method.(ù•¢Øûÿÿÿÿ8¯¥¨è¼/
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Äèòüÿÿÿÿ8¾¥¨è¼/

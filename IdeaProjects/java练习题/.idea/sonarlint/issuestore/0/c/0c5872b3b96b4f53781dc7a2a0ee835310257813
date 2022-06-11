@@ -1,0 +1,15 @@
+
+Q
+java:S1854";Remove this useless assignment to local variable "success".(¦Øˆ¿
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+B
+java:S1481",Remove this unused "success" local variable.(¦Øˆ¿
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Åå¸±ùÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(­ŒÆıÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(½ÑÁ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(×•íÖ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(Ã›³Æ
+k	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„æö´úÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ãöºÒ

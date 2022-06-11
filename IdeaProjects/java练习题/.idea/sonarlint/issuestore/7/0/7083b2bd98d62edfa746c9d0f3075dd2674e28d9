@@ -1,0 +1,16 @@
+
+V	java:S125	"<This block of commented-out lines of code should be removed.(ù×¡ñùÿÿÿÿ
+v
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(»·Éşÿÿÿÿ
+w
+java:S4276"\Refactor this code to use the more specialised Functional Interface 'UnaryOperator<Integer>'(»·Éşÿÿÿÿ
+i
+java:S1602""SRemove useless curly braces around statement and then remove useless return keyword(¬„İ
+i
+java:S1602%"SRemove useless curly braces around statement and then remove useless return keyword(¡½ò
+B
+java:S1612%",Replace this lambda with a method reference.(¡½ò
+h
+java:S1602("SRemove useless curly braces around statement and then remove useless return keyword(á¶
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(í Âõøÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹ÓÊ÷ÿÿÿÿÿ

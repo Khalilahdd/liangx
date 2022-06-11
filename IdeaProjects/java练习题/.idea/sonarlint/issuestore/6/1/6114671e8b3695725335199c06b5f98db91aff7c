@@ -1,0 +1,8 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(üê‘Ä
+C
+java:S1444"-Make this "public static maxSize" field final(ß˜žâ
+S
+java:S1197("8Move the array designator from the variable to the type.(´·ÊÛúÿÿÿÿ
+i
+java:S1104"SMake maxSize a static final constant or non-public and provide accessors if needed.(ß˜žâ

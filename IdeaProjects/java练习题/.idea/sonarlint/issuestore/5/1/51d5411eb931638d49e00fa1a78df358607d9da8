@@ -1,0 +1,8 @@
+
+Q	java:S125("<This block of commented-out lines of code should be removed.(Ûèèè
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(Ó‡Ä½üÿÿÿÿ
+U
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³ûÔÿÿÿÿÿ
+g
+java:S2095$"QUse try-with-resources or close this "BufferedInputStream" in a "finally" clause.(€š†Á

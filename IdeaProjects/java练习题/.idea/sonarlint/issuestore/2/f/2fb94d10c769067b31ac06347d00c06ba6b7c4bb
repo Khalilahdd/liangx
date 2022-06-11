@@ -1,0 +1,29 @@
+
+F
+java:S1128"0Remove this unused import 'java.io.InputStream'.(¹»º
+œ
+java:S1186U"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ä Ïúüÿÿÿÿ
+—
+java:S1186h"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ãÆĞÂ
+œ
+java:S1186m"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö„˜şúÿÿÿÿ
+œ
+java:S1186r"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(•ßçùÿÿÿÿ
+D
+java:S2387"."width" is the name of a field in "Component".(ô×Ş“
+E
+java:S2387"/"height" is the name of a field in "Component".(ºŒƒù
+E
+java:S2387"*"x" is the name of a field in "Component".(¾„ëüÿÿÿÿ
+E
+java:S2387"*"y" is the name of a field in "Component".(ºš¿»ùÿÿÿÿ
+^
+java:S3252#"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ºÀœx
+P
+java:S1161,":Add the "@Override" annotation above this method signature(¶øÂÁ
+W
+java:S10750"ARefactor your code to get this URI from a customizable parameter.(Ë„Ì
+E
+java:S6212@"/Declare this local variable with "var" instead.(ƒ§Ê•
+Q	java:S125["<This block of commented-out lines of code should be removed.(Âêœ
+V	java:S125a"<This block of commented-out lines of code should be removed.(Šêõ’şÿÿÿÿ

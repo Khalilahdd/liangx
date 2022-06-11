@@ -1,0 +1,12 @@
+
+K
+java:S2209:"5Change this instance-reference to a static reference.(÷ÓôÒ
+P
+java:S2209;"5Change this instance-reference to a static reference.(¾£Õıÿÿÿÿ
+J
+java:S2209<"5Change this instance-reference to a static reference.(«ñÑP
+C
+java:S1604R"(Make this anonymous inner class a lambda(ãöÀ—ÿÿÿÿÿ
+C
+java:S1604["(Make this anonymous inner class a lambda(‚…ßÆşÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Å¸‹öøÿÿÿÿ

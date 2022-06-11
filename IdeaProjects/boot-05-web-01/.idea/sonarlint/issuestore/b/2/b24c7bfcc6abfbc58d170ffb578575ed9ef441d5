@@ -1,0 +1,12 @@
+
+L
+java:S37406"/Provide the parametrized type for this generic.(ŞÆ×ë8ˆØêÂÆ/
+K
+java:S3740C"/Provide the parametrized type for this generic.(·Ë‘o8ˆØêÂÆ/
+Q
+java:S3740Q"/Provide the parametrized type for this generic.(ÃçÚ•ûÿÿÿÿ8ˆØêÂÆ/
+X	java:S125("<This block of commented-out lines of code should be removed.(Ş§8ÖØêÂÆ/
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(ßğí„üÿÿÿÿ8æØêÂÆ/
+s
+java:S1128"VRemove this unused import 'org.springframework.web.bind.MissingPathVariableException'.(•°”8õØêÂÆ/
+r	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÕ‘îøÿÿÿÿ8õØêÂÆ/

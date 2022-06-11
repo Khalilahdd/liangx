@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="mysql-connector-java-8.0.21">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../test1/web/WEB-INF/lib/mysql-connector-java-8.0.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../test1/web/WEB-INF/lib/okhttp-3.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../test1/web/WEB-INF/lib/okio-1.11.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

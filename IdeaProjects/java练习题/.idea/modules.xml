@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Javaweb/05_web/05_web.iml" filepath="$PROJECT_DIR$/../Javaweb/05_web/05_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Javaweb/06_servlet/06_servlet.iml" filepath="$PROJECT_DIR$/../Javaweb/06_servlet/06_servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Javaweb/07_servlet/07_servlet.iml" filepath="$PROJECT_DIR$/../Javaweb/07_servlet/07_servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Javaweb/08_jsp/08_jsp.iml" filepath="$PROJECT_DIR$/../Javaweb/08_jsp/08_jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Javaweb/09_EL_JSTL/09_EL_JSTL.iml" filepath="$PROJECT_DIR$/../Javaweb/09_EL_JSTL/09_EL_JSTL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Javaweb/13_cookie_session/13_cookie_session.iml" filepath="$PROJECT_DIR$/../Javaweb/13_cookie_session/13_cookie_session.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Javaweb/15_filter/15_filter.iml" filepath="$PROJECT_DIR$/../Javaweb/15_filter/15_filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Javaweb/16_json_ajax_i18n/16_json_ajax_i18n.iml" filepath="$PROJECT_DIR$/../Javaweb/16_json_ajax_i18n/16_json_ajax_i18n.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm/Algorithm.iml" filepath="$PROJECT_DIR$/Algorithm/Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FiveChessProject/FiveChessProject.iml" filepath="$PROJECT_DIR$/FiveChessProject/FiveChessProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JDBC练习/JDBC练习.iml" filepath="$PROJECT_DIR$/../JDBC练习/JDBC练习.iml" />
+      <module fileurl="file://$PROJECT_DIR$/贪吃蛇/Java实现贪吃蛇.iml" filepath="$PROJECT_DIR$/贪吃蛇/Java实现贪吃蛇.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Javaweb/book/book.iml" filepath="$PROJECT_DIR$/../Javaweb/book/book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Javaweb/javaweb.iml" filepath="$PROJECT_DIR$/../Javaweb/javaweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java练习题.iml" filepath="$PROJECT_DIR$/.idea/java练习题.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test/test.iml" filepath="$PROJECT_DIR$/../test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test1/test1.iml" filepath="$PROJECT_DIR$/../test1/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Javaweb/tmp/tmp.iml" filepath="$PROJECT_DIR$/../Javaweb/tmp/tmp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/数据库/数据库.iml" filepath="$PROJECT_DIR$/数据库/数据库.iml" />
+      <module fileurl="file://$PROJECT_DIR$/数据结构/数据结构.iml" filepath="$PROJECT_DIR$/数据结构/数据结构.iml" />
+      <module fileurl="file://$PROJECT_DIR$/网络编程/网络编程.iml" filepath="$PROJECT_DIR$/网络编程/网络编程.iml" />
+    </modules>
+  </component>
+</project>

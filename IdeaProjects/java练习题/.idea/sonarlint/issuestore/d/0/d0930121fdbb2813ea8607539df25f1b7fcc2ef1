@@ -1,0 +1,15 @@
+
+7
+java:S1181"!Catch Exception instead of Error.(»µ¢Ð
+@
+java:S1181"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Ö—ÑÆýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(˜ÿŽ¤ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(êÓæøùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿ·þë
+S	java:S106"9Replace this use of System.out or System.err by a logger.(é–ÌÖþÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÑÆœö
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(˜ÿŽ¤ûÿÿÿÿ
+V	java:S125*"<This block of commented-out lines of code should be removed.(°¬î«üÿÿÿÿ
+M
+java:S2589"7Remove this expression which always evaluates to "true"(óØ¯½

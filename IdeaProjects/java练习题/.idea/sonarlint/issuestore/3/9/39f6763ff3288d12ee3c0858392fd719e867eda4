@@ -1,0 +1,37 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(ÏÏĞúÿÿÿÿ
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(¿ÎÒŞüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ğø†Ó
+W
+java:S1075!"ARefactor your code to get this URI from a customizable parameter.(ÃÜŒß
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(’Ä˜–úÿÿÿÿ
+W
+java:S1075%"ARefactor your code to get this URI from a customizable parameter.(›ı†ˆ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(œ›Ñ–
+\
+java:S10750"ARefactor your code to get this URI from a customizable parameter.(§ “üÿÿÿÿ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(£„£Å
+W
+java:S10754"ARefactor your code to get this URI from a customizable parameter.(ÏÊ¤¯
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(ğ“³¬ÿÿÿÿÿ
+Q	java:S125?"<This block of commented-out lines of code should be removed.(Á»›ê
+\
+java:S1075D"ARefactor your code to get this URI from a customizable parameter.(§ “üÿÿÿÿ
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(Òªúù
+N	java:S106I"9Replace this use of System.out or System.err by a logger.(Â€©¤
+M	java:S106K"9Replace this use of System.out or System.err by a logger.(“•üU
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(À‰¡İ
+\
+java:S1075U"ARefactor your code to get this URI from a customizable parameter.(§ “üÿÿÿÿ
+N	java:S106W"9Replace this use of System.out or System.err by a logger.(Ø¸Èƒ
+N	java:S106["9Replace this use of System.out or System.err by a logger.(„ä³—
+A
+java:S1144/"+Remove this unused private "show03" method.(³©ÈÒ
+A
+java:S1144C"+Remove this unused private "show02" method.(µĞ‘
+F
+java:S1144T"+Remove this unused private "show01" method.(ù•¢Øûÿÿÿÿ
+t
+java:S11920"YDefine a constant instead of duplicating this literal "E:\\javaç»ƒä¹ é¢˜\\a.txt" 3 times.(§ “üÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·Š…Ãÿÿÿÿÿ

@@ -1,0 +1,8 @@
+
+T
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(øÈ²Ïÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ¾éŸ
+k
+java:S2095"PUse try-with-resources or close this "OutputStreamWriter" in a "finally" clause.(øÈ²Ïÿÿÿÿÿ
+j
+java:S2095"OUse try-with-resources or close this "InputStreamReader" in a "finally" clause.(Å«©çøÿÿÿÿ
